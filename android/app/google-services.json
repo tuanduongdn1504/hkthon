@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "618930275984",
+    "firebase_url": "https://local-tutor-d75bf.firebaseio.com",
+    "project_id": "local-tutor-d75bf",
+    "storage_bucket": "local-tutor-d75bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618930275984:android:58cb2bae74187fab",
+        "android_client_info": {
+          "package_name": "com.lateam.tutorApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618930275984-71lo4l6sojk5e1ppu905bi1p8ntd8h1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDBQg5f-uCOJ5FG2j9N-rQaKi-0yEvxIw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

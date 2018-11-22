@@ -1,0 +1,62 @@
+{
+  "about": "About",
+  "username": "TÊN ĐĂNG NHẬP",
+  "password": "MẬT KHẨU",
+  "repeatPassword": "NHẬP LẠI MẬT KHẨU",
+  "signIn": "ĐĂNG NHẬP",
+  "connectFB": "ĐĂNG NHẬP BẰNG FACEBOOK",
+  "dontHavePassword": "Không có tài khoản? ",
+  "signUp": "ĐĂNG KÝ",
+  "intro": {},
+  "send": "GỞI",
+  "userInfo": {
+    "name": "Họ & Tên",
+    "namePlaceholder": "Nhập họ và tên của bạn",
+    "firstName": "Tên",
+    "firstNamePlaceholder": "Nhập tên của bạn",
+    "phone": "SỐ ĐIỆN THOẠI",
+    "phonePlaceholder": "Nhập Số điện thoại của bạn",
+    "address": "Địa chỉ",
+    "addressPlaceholder": "Nhập địa chỉ của bạn",
+    "birthday": "NGÀY SINH",
+    "homeTown": "QUÊ QUÁN",
+    "homeTownPlaceholder": "Nhập quê quán của bạn",
+    "signupPrivacy": "Tôi đồng ý với tất cả điều khoản tại đây",
+    "contact": "Thông tin liên hệ",
+    "password": "MẬT KHẨU",
+    "passwordPlaceholder": "Nhập mật khẩu của bạn",
+    "email": "EMAIL",
+    "emailPlaceholder": "Nhập Email của bạn",
+    "sex": "GIỚI TÍNH",
+    "sexPlaceholder": "Chọn giới tính"
+  },
+  "inputOTP": "Nhập mã OTP",
+  "inputOTPDes": "Nhập mã nhận được từ SMS tại đây.",
+  "resend": "gởi lại mã mới",
+  "submit": "gởi",
+  "olds": "tuổi",
+  "busy": "Bận",
+  "free": "Chưa có người đặt",
+  "register": "Đăng ký",
+  "moreText": {
+    "shareToFriend": "Chia sẻ cho bạn bè",
+    "rateForUs": "Đánh giá chúng tôi",
+    "termsAndService": "Điều khoản dịch vụ",
+    "aboutUs": "Về chúng tôi",
+    "logout": "Đăng xuất"
+  },
+  "editProfile": "Chỉnh sửa thông tin cá nhân",
+  "undefined": "chưa rỏ",
+  "error": {
+    "login": "Sai mật khẩu hoặc số điện thoại.",
+    "signup": "{{message}} đã tồn tại."
+  },
+  "success": {
+    "addPatient": "Thêm người bệnh thành công!",
+    "addAppointment": "Thêm lịch khám thành công!",
+    "editUser": "Thay đổi thông tin thành công!"
+  },
+  "button": {
+    "save": "save"
+  }
+}

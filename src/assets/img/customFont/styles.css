@@ -1,0 +1,148 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "tutor";
+  src:url("fonts/tutor.eot");
+  src:url("fonts/tutor.eot?#iefix") format("embedded-opentype"),
+    url("fonts/tutor.woff") format("woff"),
+    url("fonts/tutor.ttf") format("truetype"),
+    url("fonts/tutor.svg#tutor") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "tutor" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="anticon-me-"]:before,
+[class*=" anticon-me-"]:before {
+  font-family: "tutor" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.anticon-me-tutor:before {
+  content: "\e000";
+}
+.anticon-me-accounting:before {
+  content: "\e000";
+}
+.anticon-me-back:before {
+  content: "\e001";
+}
+.anticon-me-biology:before {
+  content: "\e002";
+}
+.anticon-me-business:before {
+  content: "\e003";
+}
+.anticon-me-chat:before {
+  content: "\e004";
+}
+.anticon-me-chemistry:before {
+  content: "\e005";
+}
+.anticon-me-close:before {
+  content: "\e006";
+}
+.anticon-me-economics:before {
+  content: "\e007";
+}
+.anticon-me-english:before {
+  content: "\e008";
+}
+.anticon-me-entrepreneurship:before {
+  content: "\e009";
+}
+.anticon-me-finance:before {
+  content: "\e00a";
+}
+.anticon-me-geographic:before {
+  content: "\e00b";
+}
+.anticon-me-health:before {
+  content: "\e00c";
+}
+.anticon-me-history:before {
+  content: "\e00d";
+}
+.anticon-me-home:before {
+  content: "\e00e";
+}
+.anticon-me-logo:before {
+  content: "\e00f";
+}
+.anticon-me-marker:before {
+  content: "\e010";
+}
+.anticon-me-mathematic:before {
+  content: "\e011";
+}
+.anticon-me-notification:before {
+  content: "\e012";
+}
+.anticon-me-physics:before {
+  content: "\e013";
+}
+.anticon-me-right:before {
+  content: "\e014";
+}
+.anticon-me-search:before {
+  content: "\e015";
+}
+.anticon-me-shield:before {
+  content: "\e016";
+}
+.anticon-me-spanish:before {
+  content: "\e017";
+}
+.anticon-me-statistics:before {
+  content: "\e018";
+}
+.anticon-me-student:before {
+  content: "\e019";
+}
+.anticon-me-tutor:before {
+  content: "\e01a";
+}
+.anticon-me-user:before {
+  content: "\e01b";
+}
+.anticon-me-verifed:before {
+  content: "\e01c";
+}
+.anticon-me-star-half:before {
+  content: "\e01d";
+}
+.anticon-me-star-full:before {
+  content: "\e01e";
+}
+.anticon-me-star-empty:before {
+  content: "\e01f";
+}
+.anticon-me-menu:before {
+  content: "\e020";
+}
+.anticon-me-review:before {
+  content: "\e021";
+}
+.anticon-me-online-tutor:before {
+  content: "\e022";
+}
